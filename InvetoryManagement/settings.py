@@ -25,7 +25,7 @@ SECRET_KEY = '(&%pn7+u)gd0&j6^@=)^pfonsv*_=xf6+jcy45r7nmftcw7uxf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-invetory-moura-dev.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
